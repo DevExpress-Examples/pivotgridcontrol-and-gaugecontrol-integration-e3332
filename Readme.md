@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [AnalyticsDataViewModel.cs](./CS/PivotGauges/AnalyticsDataViewModel.cs) (VB: [AnalyticsDataViewModel.vb](./VB/PivotGauges/AnalyticsDataViewModel.vb))
-* [MainWindow.xaml](./CS/PivotGauges/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PivotGauges/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/PivotGauges/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PivotGauges/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/PivotGauges/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PivotGauges/MainWindow.xaml.vb))
 <!-- default file list end -->
 # PivotGridControl and GaugeControl integration
